@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Extractores LCMV",
+  "version": "1.0.0",
+  "description": "Extrae rankings de UNRAE, VERcity y BestSellingCarsBlog desde la pestaña abierta.",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "downloads"
+  ],
+  "host_permissions": [
+    "https://unraegiornalisti.unraeservizi.com/*",
+    "https://auto.vercity.ru/*",
+    "https://bestsellingcarsblog.com/*"
+  ],
+  "action": {
+    "default_title": "Extractores LCMV",
+    "default_popup": "popup.html"
+  }
+}
