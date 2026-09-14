@@ -1,6 +1,6 @@
 {
-  "version": "5.0.0",
-  "download_url": "https://github.com/LosCochesMasVendidos/LCMV-Studio-Updates/releases/download/v5.0.0/LCMV.Studio.exe",
-  "sha256": "17332a9215a715545d345b3d950d0700904fb041d9dd749db669b81ee1ab60de",
-  "notas": "Primera versión con sistema de actualizaciones."
+  "version": "5.1.0",
+  "download_url": "https://github.com/LosCochesMasVendidos/LCMV-Studio-Updates/releases/download/v5.1.0/LCMV.Studio.exe",
+  "sha256": "f9cc0db75de47fcace4c76820795291bdb750416931c96ab4163d99bedf4934a",
+  "notas": "Sincronización automática de correcciones y exclusiones mediante OneDrive."
 }
