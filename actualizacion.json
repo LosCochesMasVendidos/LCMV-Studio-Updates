@@ -1,6 +1,6 @@
 {
   "version": "5.0.0",
-  "download_url": "",
-  "sha256": "",
-  "notas": "Primera versión preparada para el sistema de actualizaciones."
+  "download_url": "https://github.com/LosCochesMasVendidos/LCMV-Studio-Updates/releases/download/v5.0.0/LCMV.Studio.exe",
+  "sha256": "17332a9215a715545d345b3d950d0700904fb041d9dd749db669b81ee1ab60de",
+  "notas": "Primera versión con sistema de actualizaciones."
 }
